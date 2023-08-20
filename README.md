@@ -1,2 +1,2 @@
-# bassu_store-_ecom
-this is to demonstrate files of my new clothing ecom project
+# Monsa_12-05-23
+Learn how to build a fully responsive e-commerce website from scratch using HTML and CSS in this comprehensive tutorial. 
